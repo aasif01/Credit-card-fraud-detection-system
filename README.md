@@ -8,21 +8,21 @@ Information about data set
 * Given the class imbalance ratio, we recommend measuring the accuracy using the Area Under the Precision-Recall Curve (AUPRC). Confusion matrix accuracy is not meaningful for unbalanced classification.
 
 
-Steps followed to complete this project:
-	Download the data set in .xlsx format from ⦁	www.kaggle.com
-  Import the data from the data set
-  Determine number of fraud cases in dataset
-   Plot the Correlation Matrix
-   The correlation matrix graphically gives us an idea of how features correlate with each other and can help us predict what are the          features that are most relevant for the prediction.
-    Separate the X and the Y values and then we 
-    Divide the data into inputs parameters and outputs value format
-    We will be divide the dataset into two main groups. One for training the model and the other for Testing our trained model’s        performance.
-    and for accuracy check we have implemented random forest classifier model and at last we print confusion matrix.
+##Steps followed to complete this project:
+*	Download the data set in .xlsx format from ⦁	www.kaggle.com
+*  Import the data from the data set
+  *Determine number of fraud cases in dataset
+   *Plot the Correlation Matrix
+   *The correlation matrix graphically gives us an idea of how features correlate with each other and can help us predict what are the          features that are most relevant for the prediction.
+    *Separate the X and the Y values and then we 
+   * Divide the data into inputs parameters and outputs value format
+ *   We will be divide the dataset into two main groups. One for training the model and the other for Testing our trained model’s        performance.
+  *  and for accuracy check we have implemented random forest classifier model and at last we print confusion matrix.
     
     output
     The model used is Random Forest classifier
-The accuracy is  0.9995611109160493
-The precision is 0.9866666666666667
-The recall is 0.7551020408163265
-The F1-Score is 0.8554913294797689
-The Matthews correlation coefficient is0.8629589216367891
+*The accuracy is  0.9995611109160493
+*The precision is 0.9866666666666667
+*The recall is 0.7551020408163265
+*The F1-Score is 0.8554913294797689
+*The Matthews correlation coefficient is0.8629589216367891
