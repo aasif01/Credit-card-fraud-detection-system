@@ -9,17 +9,17 @@ Information about data set
 
 
 ##Steps followed to complete this project:
-*	Download the data set in .xlsx format from ⦁	www.kaggle.com
-*  Import the data from the data set
-  *Determine number of fraud cases in dataset
-   *Plot the Correlation Matrix
-   *The correlation matrix graphically gives us an idea of how features correlate with each other and can help us predict what are the          features that are most relevant for the prediction.
-    *Separate the X and the Y values and then we 
-   * Divide the data into inputs parameters and outputs value format
- *   We will be divide the dataset into two main groups. One for training the model and the other for Testing our trained model’s        performance.
-  *  and for accuracy check we have implemented random forest classifier model and at last we print confusion matrix.
+*	  Download the data set in .xlsx format from ⦁	www.kaggle.com
+*   Import the data from the data set
+*   Determine number of fraud cases in dataset
+*   Plot the Correlation Matrix
+*   The correlation matrix graphically gives us an idea of how features correlate with each other and can help us predict what are the       features that are most relevant for the prediction.
+*   Separate the X and the Y values and then we 
+*   Divide the data into inputs parameters and outputs value format
+*   We will be divide the dataset into two main groups. One for training the model and the other for Testing our trained model’s             performance.
+*  and for accuracy check we have implemented random forest classifier model and at last we print confusion matrix.
     
-    output
+##output
     The model used is Random Forest classifier
 *The accuracy is  0.9995611109160493
 *The precision is 0.9866666666666667
