@@ -21,8 +21,8 @@ Information about data set
     
 ##output
     The model used is Random Forest classifier
-*The accuracy is  0.9995611109160493
-*The precision is 0.9866666666666667
-*The recall is 0.7551020408163265
-*The F1-Score is 0.8554913294797689
-*The Matthews correlation coefficient is0.8629589216367891
+*  The accuracy is  0.9995611109160493
+*  The precision is 0.9866666666666667
+*  The recall is 0.7551020408163265
+*  The F1-Score is 0.8554913294797689
+*  The Matthews correlation coefficient is0.8629589216367891
