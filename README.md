@@ -9,7 +9,7 @@ Information about data set
 
 
 ##Steps followed to complete this project:
-*	  Download the data set in .xlsx format from ⦁	www.kaggle.com
+*	  Download the data set in .csv format from ⦁	www.kaggle.com
 *   Import the data from the data set
 *   Determine number of fraud cases in dataset
 *   Plot the Correlation Matrix
