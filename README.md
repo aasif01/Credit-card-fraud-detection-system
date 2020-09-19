@@ -1,5 +1,5 @@
 # Credit-card-fraud-detection-system
- The project is based on Predicting Unemployment Rate Data using Machine Learning .Find the relevant data from the sources like: Kaggle, UCI etc.
+ The project is based on Credit card fraud detection  using Machine Learning .Find the relevant data from the sources like: Kaggle, UCI etc.
 dats is a CSV file, contains 31 features, the last feature is used to classify the transaction whether it is a fraud or not.
 
 Information about data set
